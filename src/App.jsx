@@ -7,8 +7,11 @@ function App() {
   return (
     <main>
       <Home/>
+      <Events/>
     </main>
   );
 }
 
 export default App;
+
+
