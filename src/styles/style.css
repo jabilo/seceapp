@@ -1,0 +1,45 @@
+body{
+    position:
+}
+h2{
+    text-align:center;
+}
+#navbar{
+    position:absolute;
+    z-index:1;
+
+}
+#main_page{
+    
+}
+.video{
+    padding-bottom: 50px;
+    padding-top:0px;
+    position: relative;
+    z-index:0;
+    position:relative;
+
+}
+#about{
+    
+    padding-top:0px;
+    padding-bottom:0px;
+    text-align: center;
+    padding: 50px 50px ;
+}
+#section{
+    padding:5%;
+    height:100vh;
+    
+}
+
+.events{
+    padding:10px 10px;
+}
+
+.timer{
+    position:relative;;
+    text-align:center;
+    z-index:2;
+    
+}
